@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Douglas Meneses</h1>
 <h3 align="center">A student of Systems Analysis and Development and passionate about software development.</h3>
 
-- 🔭 I’m currently working on [FracCalc](https://github.com/menesesdouglas/FracCalc)
+- 🔭 I’m currently working on [EduTrack](https://github.com/menesesdouglas/EduTrack)
 
 - 🌱 I’m currently learning **Python, Java, C, SQL and Git**
 
