@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, PostgreSQL, APIs, HTML+CSS and Git**
 
-- 👨‍💻 All of my projects are available at [inconstruction.com](inconstruction.com)
+- 👨‍💻 All of my projects are available at [menesesdouglas.github.io](menesesdouglas.github.io)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/menesesdouglas/](https://www.linkedin.com/in/menesesdouglas/)
 
