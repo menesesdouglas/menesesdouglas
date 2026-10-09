@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a student of Systems Analysis and Development and passionate about software development.<br><br>- 🌱 I’m currently learning Java, C#/.NET, Spring Boot, ASP.NET, PostgreSQL, APIs and Git</p>
+<p align="left">I'm a student of Computer Engineering and passionate about software development.<br><br>- 🌱 I’m currently learning Java, Python, C, C#/.NET, Spring Boot, ASP.NET, PostgreSQL, APIs and Git</p>
 
 ###
 
