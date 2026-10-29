@@ -9,7 +9,7 @@
 
 - 🤝 Também estou desenvolvendo o [Lexicon Engineer: Guia Terminológico de Engenharia da Computação](https://lexiconengineer.vercel.app/)
 
-- 👨‍💻 Meu portfólio [menesesdouglas-portfolio.de5.net](menesesdouglas-portfolio.de5.net)
+- 👨‍💻 Meu portfólio [menesesdouglas-portfolio.de5.net](https://menesesdouglas-portfolio.de5.net/)
 
 - 💬 Também estudo **C, C#, SQL Server, Delphi, Java, Spring Boot**
 
